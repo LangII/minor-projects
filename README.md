@@ -1,2 +1,2 @@
-# school
-School projects for display purposes only.
+# small projects
+School and personal projects for display purposes only.
