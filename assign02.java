@@ -1,16 +1,4 @@
 
-//////////
-//
-// Rasmussen College, Java Programming,
-// Module 02 Assignment - Calculate the Area
-//
-// (Create an application to calculate the area of a square, rectangle, 
-// triangle, or the circumference of a circle through a menu system.)
-// 
-// by David Lang on 19-01-09
-//
-//////////
-
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
