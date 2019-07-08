@@ -1,16 +1,4 @@
 
-//////////
-//
-// Rasmussen College, Java Programming,
-// Module 03 Assignment - Largest and Smallest Value
-//
-// (Create a program using an array that finds the largest and smallest value
-// of an array.)
-// 
-// by David Lang on 19-01-15
-//
-//////////
-
 import java.util.Scanner;
 
 class assign {
