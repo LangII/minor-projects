@@ -1,17 +1,4 @@
 
-//////////
-//
-// Rasmussen College, Java Programming,
-// Module 04 Assignment - Sequential File Output
-//
-// (( Write a program that a user inputs clients with id #, first name,
-// last name, and account balance and outputs to a sequential file. Then read
-// the data from that output file and print the data. ))
-// 
-// by David Lang on 19-01-26
-//
-//////////
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Random;
