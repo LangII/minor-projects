@@ -1,15 +1,4 @@
 
-//////////
-//
-// Rasmussen College, Java Programming,
-// Module 01 Assignment - Simple Program
-//
-// (Create a simple program to reverse a number using a while or for loop.)
-// 
-// by David Lang 19-01-06
-//
-//////////
-
 import java.util.Scanner;
 
 class JP_mod01_assign {
