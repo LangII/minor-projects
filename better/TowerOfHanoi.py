@@ -7,13 +7,14 @@ import pandas
 
 DISC_COUNT = 5
 
-ROWS = [ i + 1 for i in range(DISC_COUNT) ]
+LABELS = ['A', 'B', 'C']  # <-- LABELS have to be 3 single letters only.
 
 PILLAR_FORMAT = '|'
 DISC_FORMAT = '<%s>'
 DISC_BODY = 'o'
+
 MAX_DISC_WIDTH = (DISC_COUNT * 2) + 1
-LABELS = ['A', 'B', 'C']  # <-- LABELS have to be 3 single letters only.
+ROWS = [ i + 1 for i in range(DISC_COUNT) ]
 
 
 
